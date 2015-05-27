@@ -3,9 +3,9 @@
 Plugin Name: Royal Custom CSS for Page and Post
 Plugin URI: http://wordpress.org/plugins/rt-custom-css/
 Description: Royal Custom CSS for every Page and Post
-Author: Mehdi Akram
-Version: 1.0
-Author URI: http://shamokaldarpon.com/
+Author: SM Mehdi Akram
+Version: 1.1
+Author URI: http://www.shamokaldarpon.com/
 */
 
 

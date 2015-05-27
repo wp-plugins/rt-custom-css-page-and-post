@@ -3,8 +3,8 @@ Contributors: royaltechbd
 Donate link: http://royaltechbd.com/donate.html
 Tags: Royal, Custom CSS, CSS, Page, Post
 Requires at least: 3.3
-Tested up to: 3.6
-Stable tag: 1.0
+Tested up to: 4.2.2
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,9 @@ This plugin will give a custum css option for every page and post separately.
 Royal Custom CSS for Page and Post
 
 ### Features
-* Easy to use.
+* Easy to use
+* Light weight
+* No need to configure
 
 
 
@@ -46,15 +48,20 @@ No, Custom CSS for separately by post or page IDs.
 
 
 == Screenshots ==
-1. How Custom CSS use.
+1. How Custom CSS use for Page/Post.
 
 
 == Changelog ==
+= 1.1 =
+* Version update
 
-= 1.0.0 =
+= 1.0 =
 * Initial release
 
 
 == Upgrade notice ==
-= 1.0.0 =
+= 1.1 =
+* Version update
+
+= 1.0 =
 It is Initial release
